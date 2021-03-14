@@ -1,8 +1,13 @@
 # Leetcode
 
-[TOCM]
+**Table of Contents**
 
-[TOC]
+1. [Bit Manipulation](https://github.com/papanisaicharan/LeetCodeTagWiseSolutions#bit-manipulation)
+2. [Array](https://github.com/papanisaicharan/LeetCodeTagWiseSolutions#array)
+3. [String](https://github.com/papanisaicharan/LeetCodeTagWiseSolutions#string)
+4. [Linked List](https://github.com/papanisaicharan/LeetCodeTagWiseSolutions#linked-list)
+5. [Stack](https://github.com/papanisaicharan/LeetCodeTagWiseSolutions#stack)
+6. [Queue](https://github.com/papanisaicharan/LeetCodeTagWiseSolutions#queue)
 
 # ByTags
 #### Bit Manipulation
